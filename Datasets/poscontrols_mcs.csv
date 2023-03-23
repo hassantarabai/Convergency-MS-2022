@@ -1,0 +1,11 @@
+OTU_ID,MCS_per,MCS1_per,Standard,Composition
+OTU_3,83.09330629,67.10062705,44.78,Staphylococcus epidermidis
+OTU_37,1.855983773,11.04608341,44.78,Rhodobacter sphaeroides
+OTU_400,1.247464503,9.702398726,4.48,Escherichia coli
+OTU_20,9.462474645,6.825918185,4.48,Bacillus cereus
+OTU_24,1.582150101,1.536777147,0.45,Lactobacillus gasseri
+OTU_21,1.247464503,1.104807405,0.45,Streptococcus mutans
+OTU_62,0.334685598,1.070966458,0.45,Clostridium beijerinckii
+OTU_23,0.050709939,0.055738031,0.04,Deinococcus radiodurans
+OTU_5,0.060851927,0.047775455,0.04,Enterococcus faecalis
+OTU_143,0,0.037822236,0.04,Bifidobacterium adolescentis
