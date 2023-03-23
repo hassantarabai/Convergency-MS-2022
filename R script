@@ -1,4 +1,4 @@
-### Convergency R scripts for the publication Microbiomes of blood feeding triatomines in the context of their predatory relatives and the environment ##
+### Convergency R scripts for the publication Microbiomes of blood feeding triatomines in the context of their predatory relatives and the environment ###
 
 #load libraries
 library(phyloseq) #microbiome analysis #version 1.38.0
